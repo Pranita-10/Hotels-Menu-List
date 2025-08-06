@@ -18,6 +18,7 @@ Pricing: Shows the price for each dish.
 # 💻 Technologies Used
 HTML, CSS
 
-# Contact
+# 📞 Contact
 Via the Hotel Address, phone number and the email.
+
 
