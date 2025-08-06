@@ -8,7 +8,7 @@ Detailed Descriptions: Each menu item includes there items name and some descipt
 
 Pricing: Shows the price for each dish.
 
-# Menu Including In the  Hotel
+# 🥗 Menu Including In the  Hotel
 *Starter*: Like Chillis, Samosas, Vegetables Cheese Balls.
 
 *Main Course*: This is a different dishes like Paneer Masala, chicken dish and many more.
@@ -20,5 +20,6 @@ HTML, CSS
 
 # 📞 Contact
 Via the Hotel Address, phone number and the email.
+
 
 
